@@ -1,4 +1,5 @@
 import React from "react";
+import TaskList from "./TaskList";
 
 function Task () {
     return (
@@ -7,3 +8,5 @@ function Task () {
         </div>
     );
 }
+
+export default TaskList;
