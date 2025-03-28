@@ -5,6 +5,7 @@ function App() {
   return (
     <header>
       <h1>Task Tracker</h1>
+      <p>This is a task tracker app</p>
     </header>
   );
 }
